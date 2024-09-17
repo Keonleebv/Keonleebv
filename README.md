@@ -32,5 +32,3 @@ P.S. Looking for internship opportunities for January and Summer 2025!
 <a href="http://www.github.com/keonleebv"><img src="https://github-readme-stats.vercel.app/api?username=keonleebv&show_icons=true&hide=prs,issues,&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="keonleebv's GitHub stats" /></a>
 
 <a href="http://www.github.com/keonleebv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keonleebv&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/keonleebv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keonleebv&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

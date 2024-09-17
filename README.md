@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a Chemical Engineering student at the University of British Columbia with an aspiration to pivot towards Software Engineering and the industry as a whole. I have been learning code for the past 5 years and have only recently realized my passion for continuous learning and developing in the technology industry. 
 
-I am currently working at Suncor as a Process Engineering and Developer Intern, the Lead Computer Science Teaching Assistant for C and a Software Developer for UBC Bizchina. I spend most of my time learning the fundamentals with Data Structures & Algorithms and working on projects as shown on my page. Recently, I have dabbled in the Cloud, using AWS for my To-do List Tracker project which is deployed using Amplify! P.S. Looking for internship opportunities for January and Summer 2025!
+I am currently working at Suncor as a Process Engineering and Developer Intern, the Lead Computer Science Teaching Assistant for C and a Software Developer for UBC Bizchina. I spend most of my time learning the fundamentals with Data Structures & Algorithms and working on projects as shown on my page. Recently, I have dabbled in the Cloud, using AWS for my [To-do List Tracker](https://github.com/Keonleebv/To-do-List) project which is deployed using Amplify! 
+
+P.S. Looking for internship opportunities for January and Summer 2025!
 
 * 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [Keonleebv@gmail.com](mailto:Keonleebv@gmail.com)
